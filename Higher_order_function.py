@@ -2,16 +2,23 @@
 #       1. accepts a function as an argument
 #       2. returns a function
 #       (in python, functions can be treated as objects)
+#
+# def loud(text):
+#     return text.upper()
+#
+# def quiet(text):
+#     return text.lower()
+#
+# def hello(func):
+#     text = func("Hello")
+#     print(text)
+# hello(loud)
 
-def loud(text):
-    return text.upper()
+def divisor(x):
+    def dividend(y):
+        return y/x
+    return dividend
 
-def quiet(text):
-    return text.lower()
+divide = divisor(2)     # x = 2
 
-def hello(func):
-    text = func("Hello")
-    print(text)
-
-
-hello(loud)
+print(divide(10))       #y = 10

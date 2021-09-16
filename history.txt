@@ -1,0 +1,182 @@
+Did you win or lose?: w
+---------------
+ W
+Total Wins: 1
+Total Losses: 0
+Total Wins - Losses: 1
+Current Time = 10:50:35
+---------------
+Did you win or lose?: w
+---------------
+ WW
+Total Wins: 2
+Total Losses: 0
+Total Wins - Losses: 2
+Current Time = 10:50:38
+---------------
+Did you win or lose?:
+---------------
+ WW
+Total Wins: 3
+Total Losses: 0
+Total Wins - Losses: 3
+Current Time = 10:50:40
+---------------
+Did you win or lose?: l
+---------------
+ WWL
+Total Wins: 3
+Total Losses: 1
+Total Wins - Losses: 2
+Current Time = 10:50:42
+---------------
+Did you win or lose?: l
+---------------
+ WWLL
+Total Wins: 3
+Total Losses: 2
+Total Wins - Losses: 1
+Current Time = 10:50:43
+---------------
+Did you win or lose?: w
+---------------
+ WWLLW
+Total Wins: 4
+Total Losses: 2
+Total Wins - Losses: 2
+Current Time = 10:50:44
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWL
+Total Wins: 4
+Total Losses: 3
+Total Wins - Losses: 1
+Current Time = 10:50:45
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLL
+Total Wins: 4
+Total Losses: 4
+Total Wins - Losses: 0
+Current Time = 10:50:47
+---------------
+Did you win or lose?: w
+---------------
+ WWLLWLLW
+Total Wins: 5
+Total Losses: 4
+Total Wins - Losses: 1
+Current Time = 10:50:49
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLLWL
+Total Wins: 5
+Total Losses: 5
+Total Wins - Losses: 0
+Current Time = 10:50:50
+---------------
+Did you win or lose?: w
+---------------
+ WWLLWLLWLW
+Total Wins: 6
+Total Losses: 5
+Total Wins - Losses: 1
+Current Time = 10:50:51
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLLWLWL
+Total Wins: 6
+Total Losses: 6
+Total Wins - Losses: 0
+Current Time = 10:50:51
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLLWLWLL
+Total Wins: 6
+Total Losses: 7
+Total Wins - Losses: -1
+Current Time = 10:51:52
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLLWLWLLL
+Total Wins: 6
+Total Losses: 8
+Total Wins - Losses: -2
+Current Time = 10:51:53
+---------------
+Did you win or lose?: w
+---------------
+ WWLLWLLWLWLLLW
+Total Wins: 7
+Total Losses: 8
+Total Wins - Losses: -1
+Current Time = 10:52:08
+---------------
+Did you win or lose?: w
+---------------
+ WWLLWLLWLWLLLWW
+Total Wins: 8
+Total Losses: 8
+Total Wins - Losses: 0
+Current Time = 10:53:09
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLLWLWLLLWWL
+Total Wins: 8
+Total Losses: 9
+Total Wins - Losses: -1
+Current Time = 10:53:22
+---------------
+Did you win or lose?: l
+---------------
+ WWLLWLLWLWLLLWWLL
+Total Wins: 8
+Total Losses: 10
+Total Wins - Losses: -2
+Current Time = 10:53:43
+---------------
+Did you win or lose?: w
+---------------
+ WWLLWLLWLWLLLWWLLW
+Total Wins: 9
+Total Losses: 10
+Total Wins - Losses: -1
+Current Time = 10:54:03
+
+---------------
+Total Wins: 0
+Total Losses: 1
+Total Wins - Losses: -1
+Current Time =11:08:57
+---------------
+---------------
+Total Wins: 0
+Total Losses: 2
+Total Wins - Losses: -2
+Current Time =11:09:35
+---------------
+---------------
+Total Wins: 0
+Total Losses: 3
+Total Wins - Losses: -3
+Current Time =11:09:43
+---------------
+---------------
+Total Wins: 0
+Total Losses: 4
+Total Wins - Losses: -4
+Current Time =11:09:52
+---------------
+---------------
+Total Wins: 0
+Total Losses: 5
+Total Wins - Losses: -5
+Current Time =11:09:59
+---------------
